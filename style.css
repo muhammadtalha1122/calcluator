@@ -1,0 +1,39 @@
+.cal{
+    text-align: center;
+}
+body{
+    background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg);
+}
+table {
+    width: 400px;
+    margin: auto;
+}
+
+tr {
+    /* background-color: rgb(205, 231, 231); */
+    width: 100%;
+    border: 1px solid black;
+}
+
+button {
+    background-image: url(https://lh3.googleusercontent.com/ZAxjrAw7Nl4eoIZdP3rM2EqYbvIBqzqwkgbzorCXlRVPW7oiqOnURJsX9oVq4xoClpAE_H16RSL8ULt4ZxpK4QGHxw=w640-h400-e365-rj-sc0x00ffffff);
+    width: 100%;
+    display: inline-block;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 90%;
+}
+
+input {
+    border: 2px solid grey;
+    color: black;
+    border-radius: 20px;
+    text-align: right;
+    height: 40px;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: rgb(143, 247, 247);
+    cursor: pointer;
+}
